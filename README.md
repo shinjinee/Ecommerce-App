@@ -1,4 +1,4 @@
-# Ecommerce APplication
+# Ecommerce Application
 
 This is the frontend for an ecommerce shopping application made using the Flutter framework in Dart.
 
